@@ -1,6 +1,7 @@
 # Olá, me chamo Vinicius Bezerra ! 
 
-# Sou estudante de programação, Desenvolvedor back-end.
+# Sou estudante de Análise e Desenvolvimento de Sistemas, Desenvolvedor back-end.
+# Aprimorando meus conhecimentos na Alura
 # estou a procura de um estagio.
 
 ## Bem vindo ao meu perfil GitHub 👋
